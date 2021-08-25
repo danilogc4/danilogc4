@@ -2,7 +2,7 @@
 <h3>I'm Danilo, 20 yo, 🇧🇷. </h3>
 
 - 😄 My Pronouns: He/Him
-- 🎓 I'm currently studying Computer engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br).
+- 🎓 I'm currently studying Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br).
 - 🏢 Developer Intern at [Take Blip](https://www.take.net).
 
 #### Contact me! ☺
