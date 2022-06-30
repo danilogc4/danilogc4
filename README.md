@@ -1,9 +1,9 @@
 <h1> Hello! 🙋🏿‍♂️ </h1>
-<h3>I'm Danilo, 20 yo, 🇧🇷. </h3>
+<h3>I'm Danilo, 21 yo, 🇧🇷. </h3>
 
 - 😄 My Pronouns: He/Him
 - 🎓 I'm currently studying Computer Engineering at the [Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br).
-- 🏢 Developer Intern at [Take Blip](https://www.take.net).
+- 🏢 Software Engineer Intern at [Google](https://about.google/?hl=en_US).
 
 #### Contact me! ☺
 
